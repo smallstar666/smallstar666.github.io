@@ -3,11 +3,11 @@
   <title>小兴の博客</title>
   
   <subtitle>开心且乐观</subtitle>
-  <link href="https://smallstar666.github.io/atom.xml" rel="self"/>
+  <link href="https://xiaoxingstudio.cn/atom.xml" rel="self"/>
   
-  <link href="https://smallstar666.github.io/"/>
+  <link href="https://xiaoxingstudio.cn/"/>
   <updated>2022-09-17T02:42:12.990Z</updated>
-  <id>https://smallstar666.github.io/</id>
+  <id>https://xiaoxingstudio.cn/</id>
   
   <author>
     <name>小兴</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="https://smallstar666.github.io/2022/09/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://smallstar666.github.io/2022/09/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://xiaoxingstudio.cn/2022/09/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://xiaoxingstudio.cn/2022/09/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2022-09-16T14:26:20.000Z</published>
     <updated>2022-09-17T02:42:12.990Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://smallstar666.github.io/2022/09/15/hello-world/"/>
-    <id>https://smallstar666.github.io/2022/09/15/hello-world/</id>
+    <link href="https://xiaoxingstudio.cn/2022/09/15/hello-world/"/>
+    <id>https://xiaoxingstudio.cn/2022/09/15/hello-world/</id>
     <published>2022-09-15T01:10:54.286Z</published>
     <updated>2022-09-15T01:16:38.042Z</updated>
     
