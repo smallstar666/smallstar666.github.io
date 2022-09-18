@@ -6,7 +6,7 @@
   <link href="https://xiaoxingstudio.cn/atom.xml" rel="self"/>
   
   <link href="https://xiaoxingstudio.cn/"/>
-  <updated>2022-09-18T11:43:00.873Z</updated>
+  <updated>2022-09-18T13:23:58.002Z</updated>
   <id>https://xiaoxingstudio.cn/</id>
   
   <author>
@@ -17,13 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>tinyriscv初学习-1.md</title>
-    <link href="https://xiaoxingstudio.cn/2022/09/18/tinyriscv%E5%88%9D%E5%AD%A6%E4%B9%A0-1-md/"/>
-    <id>https://xiaoxingstudio.cn/2022/09/18/tinyriscv%E5%88%9D%E5%AD%A6%E4%B9%A0-1-md/</id>
-    <published>2022-09-18T11:39:53.000Z</published>
-    <updated>2022-09-18T11:43:00.873Z</updated>
+    <title>考研高数第一章</title>
+    <link href="https://xiaoxingstudio.cn/2022/09/18/%E8%80%83%E7%A0%94/%E8%80%83%E7%A0%94%E9%AB%98%E6%95%B0%E7%AC%AC%E4%B8%80%E7%AB%A0/"/>
+    <id>https://xiaoxingstudio.cn/2022/09/18/%E8%80%83%E7%A0%94/%E8%80%83%E7%A0%94%E9%AB%98%E6%95%B0%E7%AC%AC%E4%B8%80%E7%AB%A0/</id>
+    <published>2022-09-18T13:23:06.000Z</published>
+    <updated>2022-09-18T13:23:58.002Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="参考网站"><a href="#参考网站" class="headerlink" title="参考网站"></a>参考网站</h1><ol><li>项目gitee链接:<a href="https://gitee.com/liangkangnan/tinyriscv">tinyriscv参考工程</a></li><li>项目博客推荐:<a href="https://liangkangnan.gitee.io/">tinyriscv博客推荐</a></li></ol>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://img1.imgtp.com/2022/09/18/WMzReD5A.jpg" alt="1.jpg"></p><p><img src="https://img1.imgtp.com/2022/09/18/aWrlVkD8.jpg" alt="2.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://img1.imgtp.com/2022/09/18/WMzReD5A.jpg&quot; alt=&quot;1.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://img1.imgtp.com/2022/09/18/aWrlVkD8.jpg&quot; a</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>tinyriscv初学习-1</title>
+    <link href="https://xiaoxingstudio.cn/2022/09/18/tinyriscv/tinyriscv%E5%88%9D%E5%AD%A6%E4%B9%A0-1/"/>
+    <id>https://xiaoxingstudio.cn/2022/09/18/tinyriscv/tinyriscv%E5%88%9D%E5%AD%A6%E4%B9%A0-1/</id>
+    <published>2022-09-18T11:39:53.000Z</published>
+    <updated>2022-09-18T11:54:45.202Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="参考网站"><a href="#参考网站" class="headerlink" title="参考网站"></a>参考网站</h1><ol><li>项目gitee链接:<a href="https://gitee.com/liangkangnan/tinyriscv">tinyriscv参考工程</a></li><li>项目博客推荐:<a href="https://liangkangnan.gitee.io/">tinyriscv博客推荐</a></li></ol><h1 id="下载工程"><a href="#下载工程" class="headerlink" title="下载工程"></a>下载工程</h1><p><img src="https://img1.imgtp.com/2022/09/18/mn2AwENY.png" alt="tinyriscv初学习-1-1.png"></p>]]></content>
     
     
       
