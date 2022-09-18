@@ -6,7 +6,7 @@
   <link href="https://xiaoxingstudio.cn/atom.xml" rel="self"/>
   
   <link href="https://xiaoxingstudio.cn/"/>
-  <updated>2022-09-18T07:14:37.492Z</updated>
+  <updated>2022-09-18T11:43:00.873Z</updated>
   <id>https://xiaoxingstudio.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>tinyriscv初学习-1.md</title>
+    <link href="https://xiaoxingstudio.cn/2022/09/18/tinyriscv%E5%88%9D%E5%AD%A6%E4%B9%A0-1-md/"/>
+    <id>https://xiaoxingstudio.cn/2022/09/18/tinyriscv%E5%88%9D%E5%AD%A6%E4%B9%A0-1-md/</id>
+    <published>2022-09-18T11:39:53.000Z</published>
+    <updated>2022-09-18T11:43:00.873Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="参考网站"><a href="#参考网站" class="headerlink" title="参考网站"></a>参考网站</h1><ol><li>项目gitee链接:<a href="https://gitee.com/liangkangnan/tinyriscv">tinyriscv参考工程</a></li><li>项目博客推荐:<a href="https://liangkangnan.gitee.io/">tinyriscv博客推荐</a></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;参考网站&quot;&gt;&lt;a href=&quot;#参考网站&quot; class=&quot;headerlink&quot; title=&quot;参考网站&quot;&gt;&lt;/a&gt;参考网站&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;项目gitee链接:&lt;a href=&quot;https://gitee.com/liangkangnan/tinyri</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>我的第一篇博客</title>
