@@ -85,6 +85,17 @@
     
     
     <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -96,9 +107,9 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -129,11 +140,11 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/js/runtime/runtime.js"/>
+      <url>/js/runtime/runtime.js</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[var now = new Date();function createtime() {  var grt = new Date("09/15/2022 00:00:00");  now.setTime(now.getTime() + 250);  var days = (now - grt) / 1e3 / 60 / 60 / 24,    dnum = Math.floor(days),    hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,    hnum = Math.floor(hours);  1 == String(hnum).length && (hnum = "0" + hnum);  var minutes = (now - grt) / 1e3 / 60 - 1440 * dnum - 60 * hnum,    mnum = Math.floor(minutes);  1 == String(mnum).length && (mnum = "0" + mnum);  var seconds = (now - grt) / 1e3 - 86400 * dnum - 3600 * hnum - 60 * mnum,    snum = Math.round(seconds);  1 == String(snum).length && (snum = "0" + snum);  let currentTimeHtml = "";  (currentTimeHtml =    hnum < 18 && hnum >= 9      ? `<img class='boardsign' src=/img/摸鱼中.svg title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`      : `<img class='boardsign' src=/img/下班.svg title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),    document.getElementById("workboard") &&      (document.getElementById("workboard").innerHTML = currentTimeHtml);}setInterval(() => {  createtime();}, 250);]]></content>
       
     </entry>
     
@@ -145,17 +156,6 @@
       <url>/js/runtime/runtime.min.js</url>
       
         <content type="html"><![CDATA[var now=new Date;function createtime(){var grt=new Date("09/15/2022 00:00:00");now.setTime(now.getTime()+250);var days=(now-grt)/1e3/60/60/24,dnum=Math.floor(days),hours=(now-grt)/1e3/60/60-24*dnum,hnum=Math.floor(hours);1==String(hnum).length&&(hnum="0"+hnum);var minutes=(now-grt)/1e3/60-1440*dnum-60*hnum,mnum=Math.floor(minutes);1==String(mnum).length&&(mnum="0"+mnum);var seconds=(now-grt)/1e3-86400*dnum-3600*hnum-60*mnum,snum=Math.round(seconds);1==String(snum).length&&(snum="0"+snum);let currentTimeHtml="";currentTimeHtml=hnum<18&&hnum>=9?`<img class='boardsign' src=/img/摸鱼中.svg title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`:`<img class='boardsign' src=/img/下班.svg title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=currentTimeHtml)}setInterval(()=>{createtime()},250);]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/runtime/runtime.js"/>
-      <url>/js/runtime/runtime.js</url>
-      
-        <content type="html"><![CDATA[var now = new Date();function createtime() {  var grt = new Date("09/15/2022 00:00:00");  now.setTime(now.getTime() + 250);  var days = (now - grt) / 1e3 / 60 / 60 / 24,    dnum = Math.floor(days),    hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,    hnum = Math.floor(hours);  1 == String(hnum).length && (hnum = "0" + hnum);  var minutes = (now - grt) / 1e3 / 60 - 1440 * dnum - 60 * hnum,    mnum = Math.floor(minutes);  1 == String(mnum).length && (mnum = "0" + mnum);  var seconds = (now - grt) / 1e3 - 86400 * dnum - 3600 * hnum - 60 * mnum,    snum = Math.round(seconds);  1 == String(snum).length && (snum = "0" + snum);  let currentTimeHtml = "";  (currentTimeHtml =    hnum < 18 && hnum >= 9      ? `<img class='boardsign' src=/img/摸鱼中.svg title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`      : `<img class='boardsign' src=/img/下班.svg title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),    document.getElementById("workboard") &&      (document.getElementById("workboard").innerHTML = currentTimeHtml);}setInterval(() => {  createtime();}, 250);]]></content>
       
     </entry>
     
