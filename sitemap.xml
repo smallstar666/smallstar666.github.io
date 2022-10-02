@@ -2,27 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xiaoxingstudio.cn/posts/aefa.html</loc>
+    <loc>https://xiaoxingstudio.cn/animal/index.html</loc>
     
-    <lastmod>2022-09-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaoxingstudio.cn/posts/80b8.html</loc>
-    
-    <lastmod>2022-09-25</lastmod>
+    <lastmod>2022-10-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://xiaoxingstudio.cn/posts/ec79.html</loc>
+    <loc>https://xiaoxingstudio.cn/posts/6fcc.html</loc>
     
-    <lastmod>2022-09-18</lastmod>
+    <lastmod>2022-10-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,43 @@
   <url>
     <loc>https://xiaoxingstudio.cn/posts/eb22.html</loc>
     
-    <lastmod>2022-09-18</lastmod>
+    <lastmod>2022-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxingstudio.cn/posts/80b8.html</loc>
+    
+    <lastmod>2022-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxingstudio.cn/posts/aefa.html</loc>
+    
+    <lastmod>2022-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxingstudio.cn/posts/ec79.html</loc>
+    
+    <lastmod>2022-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxingstudio.cn/about/index.html</loc>
+    
+    <lastmod>2022-10-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,12 +112,68 @@
 
   <url>
     <loc>https://xiaoxingstudio.cn/</loc>
-    <lastmod>2022-09-26</lastmod>
+    <lastmod>2022-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://xiaoxingstudio.cn/tags/tinyriscv/</loc>
+    <lastmod>2022-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxingstudio.cn/tags/%E4%B8%80%E7%94%9F%E4%B8%80%E8%8A%AF/</loc>
+    <lastmod>2022-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxingstudio.cn/tags/%E6%97%A0%E4%BA%BA%E6%9C%BA/</loc>
+    <lastmod>2022-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxingstudio.cn/tags/%E8%80%83%E7%A0%94/</loc>
+    <lastmod>2022-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://xiaoxingstudio.cn/categories/tinyriscv/</loc>
+    <lastmod>2022-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxingstudio.cn/categories/%E4%B8%80%E7%94%9F%E4%B8%80%E8%8A%AF/</loc>
+    <lastmod>2022-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxingstudio.cn/categories/%E6%97%A0%E4%BA%BA%E6%9C%BA/</loc>
+    <lastmod>2022-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaoxingstudio.cn/categories/%E8%80%83%E7%A0%94/</loc>
+    <lastmod>2022-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
